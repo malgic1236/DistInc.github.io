@@ -1,1 +1,2 @@
-
+// if (gain.gte(sc)) gain = gain.sqrt().times(ExpantaNum.sqrt(sc));
+//
